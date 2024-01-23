@@ -5,17 +5,11 @@ cards that we will use, along with analytical predictions of how the party will
 run.
 The typical rules of the game of Bingo are as follows:
 • Each participant has a card with a grid of numbers;
-• At given intervals, a number between 1 and 75 is called, and all partici-
-pants whose cards contain that number can cross it out;
-• Whenever a player has a full line, column or diagonal of crossed-out num-
-bers, they call out \BINGO!", and returns their card to the organisers, in
-exchange for a prize.
-• All the players that have not reached BINGO yet keep playing, until ei-
-ther they ll a line/col/diagonal, or when the organisers stop calling out
-numbers.
+• At given intervals, a number between 1 and 75 is called, and all participants whose cards contain that number can cross it out;
+• Whenever a player has a full line, column or diagonal of crossed-out numbers, they call out \BINGO!", and returns their card to the organisers, in exchange for a prize.
+• All the players that have not reached BINGO yet keep playing, until either they ll a line/col/diagonal, or when the organisers stop calling out numbers.
+
 A Bingo card has the following characteristics:
 • It is composed of a 5x5 grid of numbers;
-• The rst column contains numbers from 1-15, the second one from 16-30,
-the third one from 31-45, the fourth one from 46-60, and the fth one from
-61-75.
+• The rst column contains numbers from 1-15, the second one from 16-30, the third one from 31-45, the fourth one from 46-60, and the fth one from 61-75.
 • The central cell of the grid is a \free cell".
